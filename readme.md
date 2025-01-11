@@ -33,9 +33,11 @@ Este projeto também é uma oportunidade de explorar e compartilhar técnicas pa
 ## 🎥 Visualização do Projeto
 
 Confira uma prévia do **CyberCode**:  
-![CyberCode Gameplay](/docs/assets/video/videoreadme.mp4)  
+![CyberCode](/docs/assets/image/1.png)  
+![CyberCode](/docs/assets/image/2.png)
+![CyberCode](/docs/assets/image/3.png)
 
 ---
 
 **CyberCode** ainda está em desenvolvimento e será atualizado continuamente. Fique atento às novidades! 🚧  
-Desenvolvido com paixão por [Gustavo Oliveira](https://github.com/seu-usuario).
+Desenvolvido com paixão por [Gustavo Oliveira](https://github.com/GustavoOliiveira).
